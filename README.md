@@ -1,3 +1,4 @@
+![MasterHead](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1)
 <h1 align="center">Hi 👋, I'm Eduardo Kenji</h1>
 <h3 align="center">Gosto muito de programação, principalmente focada em front-end.</h3>
 <img align="right" alt="Coding" width="500" src="https://thumbs.gfycat.com/BabyishTimelyHylaeosaurus-max-1mb.gif"
