@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Mobile Development**
 
-- 📫 How to reach me **dudu.hirose@hotmail.com**
+- 📫 How to reach me **eduardo.kenji05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
