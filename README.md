@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenjiisok&label=Profile%20views&color=0e75b6&style=flat" alt="kenjiisok" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Mobile Development**
+- 🌱 I’m currently learning **Javascript, React, Mobile Development and Next**
 
 - 📫 How to reach me **eduardo.kenji05@gmail.com**
 
