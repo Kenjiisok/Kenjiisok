@@ -1,11 +1,11 @@
 ![MasterHead](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1)
 <h1 align="center">Hi, I'm Eduardo Kenji</h1>
-<h3 align="center">Studying to be a frontend developer.</h3>
+<h3 align="center">Frontend developer.</h3>
 <img align="right" alt="Coding" width="500" src="https://thumbs.gfycat.com/BabyishTimelyHylaeosaurus-max-1mb.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenjiisok&label=Profile%20views&color=0e75b6&style=flat" alt="kenjiisok" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Mobile Development and Next**
+- 🌱 I’m currently working at OKN as a frontend intern using **PHP, Javascript, React, React Native and Next.js**
 
 - 📫 How to reach me **eduardo.kenji05@gmail.com**
 
